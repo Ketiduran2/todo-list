@@ -38,3 +38,5 @@ while True:
         break
     else:
         print("Pilihan tidak valid!")
+
+#made by Ketiduran
